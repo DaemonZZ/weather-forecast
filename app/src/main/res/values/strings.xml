@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="find">Tìm...</string>
+    <string name="city">Thành phố</string>
+    <string name="o">o</string>
+    <string name="c">C</string>
+    <string name="visibility">Tầm nhìn</string>
+    <string name="wind">Gió</string>
+    <string name="nothing_to_show">Nothing to show</string>
+</resources>
